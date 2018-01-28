@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 6cbff19a2b8d7f546811f3cfed802b90
+timeCreated: 1502075748
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: greyLetters_A
+    21300002: greyLetters_B
+    21300004: greyLetters_C
+    21300006: greyLetters_D
+    21300008: greyLetters_E
+    21300010: greyLetters_F
+    21300012: greyLetters_G
+    21300014: greyLetters_H
+    21300016: greyLetters_I
+    21300018: greyLetters_J
+    21300020: greyLetters_K
+    21300022: greyLetters_L
+    21300024: greyLetters_M
+    21300026: greyLetters_N
+    21300028: greyLetters_O
+    21300030: greyLetters_P
+    21300032: greyLetters_Q
+    21300034: greyLetters_R
+    21300036: greyLetters_S
+    21300038: greyLetters_T
+    21300040: greyLetters_U
+    21300042: greyLetters_V
+    21300044: greyLetters_W
+    21300046: greyLetters_X
+    21300048: greyLetters_Y
+    21300050: greyLetters_Z
+    21300052: greyLetters_ExclamationPoint
+    21300054: greyLetters_QuestionMark
+    21300056: greyLetters_AtSign
+    21300058: greyLetters_PoundSign
+    21300060: greyLetters_Ampersand
+    21300062: greyLetters_PercentSign
+    21300064: greyLetters_MoneySign
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greyLetters_A
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3223
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_B
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 3221
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_C
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 3230
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_D
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3227
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_E
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 3247
+        width: 835
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_F
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 3252
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_G
+      rect:
+        serializedVersion: 2
+        x: 5466
+        y: 3255
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_H
+      rect:
+        serializedVersion: 2
+        x: 6328
+        y: 3238
+        width: 834
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_I
+      rect:
+        serializedVersion: 2
+        x: 7272
+        y: 3230
+        width: 836
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_J
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2247
+        width: 834
+        height: 831
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_K
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2239
+        width: 836
+        height: 839
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_L
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2247
+        width: 839
+        height: 839
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_M
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 2250
+        width: 839
+        height: 841
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_N
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 2266
+        width: 840
+        height: 841
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_O
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 2270
+        width: 836
+        height: 845
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_P
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 2279
+        width: 844
+        height: 837
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_Q
+      rect:
+        serializedVersion: 2
+        x: 6356
+        y: 2263
+        width: 837
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_R
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 2249
+        width: 837
+        height: 835
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_S
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1287
+        width: 840
+        height: 839
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_T
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1289
+        width: 838
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_U
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1293
+        width: 840
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_V
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 1298
+        width: 840
+        height: 838
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_W
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 1316
+        width: 840
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_X
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 1321
+        width: 838
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_Y
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 1323
+        width: 841
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_Z
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 1308
+        width: 836
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_ExclamationPoint
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 1296
+        width: 838
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_QuestionMark
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 263
+        width: 836
+        height: 840
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_AtSign
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 263
+        width: 838
+        height: 840
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_PoundSign
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 271
+        width: 836
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_Ampersand
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 274
+        width: 840
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_PercentSign
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 286
+        width: 838
+        height: 840
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: greyLetters_MoneySign
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 290
+        width: 841
+        height: 844
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
